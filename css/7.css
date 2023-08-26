@@ -1,0 +1,97 @@
+@font-face {
+  font-family: 'iconobodanuevo';
+  src: url('../iconos/iconos_boda.eot');
+  src: url('../iconos/iconos_boda.eot') format('embedded-opentype'),
+       url('../iconos/iconos_boda.woff2') format('woff2'),
+       url('../iconos/iconos_boda.woff') format('woff'),
+       url('../iconos/iconos_boda.ttf') format('truetype'),
+       url('../iconos/iconos_boda.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "iconobodanuevo";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-glass:before { content: '\e800'; } /* '' */
+.icon-heart:before { content: '\e801'; } /* '' */
+.icon-heart-empty:before { content: '\e802'; } /* '' */
+.icon-star:before { content: '\e803'; } /* '' */
+.icon-star-empty:before { content: '\e804'; } /* '' */
+.icon-mail:before { content: '\e805'; } /* '' */
+.icon-chat:before { content: '\e806'; } /* '' */
+.icon-play:before { content: '\e807'; } /* '' */
+.icon-play-circled2:before { content: '\e808'; } /* '' */
+.icon-stop:before { content: '\e809'; } /* '' */
+.icon-headphones:before { content: '\e80a'; } /* '' */
+.icon-note:before { content: '\e80b'; } /* '' */
+.icon-heart-1:before { content: '\e80c'; } /* '' */
+.icon-heart-empty-1:before { content: '\e80d'; } /* '' */
+.icon-tag:before { content: '\e80e'; } /* '' */
+.icon-check:before { content: '\e80f'; } /* '' */
+.icon-down-open-mini:before { content: '\e810'; } /* '' */
+.icon-up-open-mini:before { content: '\e811'; } /* '' */
+.icon-down-open-big:before { content: '\e812'; } /* '' */
+.icon-up-open-big:before { content: '\e813'; } /* '' */
+.icon-paper-plane-1:before { content: '\e814'; } /* '' */
+.icon-quote-right-1:before { content: '\e815'; } /* '' */
+.icon-quote-left-1:before { content: '\e816'; } /* '' */
+.icon-mail-1:before { content: '\e817'; } /* '' */
+.icon-mail-2:before { content: '\e818'; } /* '' */
+.icon-heart-2:before { content: '\e819'; } /* '' */
+.icon-user-pair:before { content: '\e81a'; } /* '' */
+.icon-t-shirt:before { content: '\e81b'; } /* '' */
+.icon-paper-plane-2:before { content: '\e81c'; } /* '' */
+.icon-heart-3:before { content: '\e81d'; } /* '' */
+.icon-heart-4:before { content: '\e81e'; } /* '' */
+.icon-heart-empty-2:before { content: '\e81f'; } /* '' */
+.icon-ok:before { content: '\e820'; } /* '' */
+.icon-tag-1:before { content: '\e821'; } /* '' */
+.icon-food:before { content: '\f0f5'; } /* '' */
+.icon-angle-up:before { content: '\f106'; } /* '' */
+.icon-angle-down:before { content: '\f107'; } /* '' */
+.icon-quote-left:before { content: '\f10d'; } /* '' */
+.icon-quote-right:before { content: '\f10e'; } /* '' */
+.icon-mic:before { content: '\f130'; } /* '' */
+.icon-mute:before { content: '\f131'; } /* '' */
+.icon-play-circled:before { content: '\f144'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-moon:before { content: '\f186'; } /* '' */
+.icon-paper-plane:before { content: '\f1d8'; } /* '' */
+.icon-paper-plane-empty:before { content: '\f1d9'; } /* '' */
+.icon-share:before { content: '\f1e0'; } /* '' */
+.icon-bus:before { content: '\f207'; } /* '' */
+.icon-bed:before { content: '\f236'; } /* '' */
+.icon-facebook-squared:before { content: '\f308'; } /* '' */
